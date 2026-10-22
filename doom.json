@@ -1,0 +1,11 @@
+{
+  "name": "doom",
+  "version": "0.1",
+  "description": "Native Doom engine for DescOS",
+  "type": "game",
+  "download_url": "REPLACE_WITH_FINAL_DOOM_PACKAGE_URL",
+  "sha256": "REPLACE_WITH_SHA256",
+  "install_path": "/usr/local/games/doom",
+  "engine": "doomgeneric",
+  "iwad_required": true
+}
