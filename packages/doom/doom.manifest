@@ -1,0 +1,11 @@
+format=descos-package-1
+name=doom
+version=0.1-e257a0952706
+description=DoomGeneric native framebuffer engine; WAD data not included
+abi=descos-x86_64-v1
+install=doom-engine
+download_url=https://bangeli11.github.io/descweb-site/packages/doom/0.1-e257a0952706/doom.dgp
+sha256=1d3202ef7b726981d43d35e29c948d27efb2d8f03958b7e0d1d29d9657171ab4
+dependencies=linux-fbdev,linux-console
+license=GPL-2.0-or-later
+source_url=https://bangeli11.github.io/descweb-site/packages/doom/0.1-e257a0952706/source.tar.gz
