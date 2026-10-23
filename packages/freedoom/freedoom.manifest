@@ -6,6 +6,7 @@ abi=doom-iwad-v1
 install=freedoom-data
 download_url=https://bangeli11.github.io/descweb-site/packages/freedoom/freedoom.zip
 sha256=6f9a6d6e93fca1bf0492e4e9fcf398090d780285642175e6d183fa252ffcbb2f
+payload_sha256=a8772e088847032510d97ba2312406a6998f21cbab44d4ff10696faa9c0ecd4b
 dependencies=doom
 license=BSD-3-Clause
 source_url=https://bangeli11.github.io/descweb-site/packages/freedoom/freedoom-0.13.0.zip
